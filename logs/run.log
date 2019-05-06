@@ -1,0 +1,113 @@
+2019-04-29 11:24:21,114 - Common.py[line:15] - INFO - 获取当前时间
+2019-05-05 15:12:46,719 - loginView.py[line:21] - INFO - ======登录开始======
+2019-05-05 15:12:46,806 - loginView.py[line:22] - INFO - username is:admin
+2019-05-05 15:15:18,861 - loginView.py[line:21] - INFO - ======登录开始======
+2019-05-05 15:15:18,875 - loginView.py[line:22] - INFO - username is:admin
+2019-05-05 15:15:19,129 - loginView.py[line:25] - INFO - password is:123456
+2019-05-05 15:15:19,249 - loginView.py[line:28] - INFO - ======点击登录按钮======
+2019-05-05 15:15:21,701 - loginView.py[line:30] - INFO - ======登录完成======
+2019-05-05 15:43:01,350 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-05 15:43:01,357 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-05 15:45:12,313 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-05 15:45:12,317 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-05 15:46:19,135 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-05 15:46:19,137 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-05 15:46:54,157 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-05 15:47:00,132 - test_login.py[line:23] - INFO - ======测试密码错误登录======
+2019-05-05 15:47:00,196 - loginView.py[line:21] - INFO - ======登录开始======
+2019-05-05 15:47:00,197 - loginView.py[line:22] - INFO - username is:admin
+2019-05-05 15:47:00,217 - myunit.py[line:17] - INFO - ======tearDown======
+2019-05-05 15:47:10,221 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-05 15:47:13,221 - test_login.py[line:18] - INFO - ======测试正确登录======
+2019-05-05 15:47:13,223 - loginView.py[line:21] - INFO - ======登录开始======
+2019-05-05 15:47:13,224 - loginView.py[line:22] - INFO - username is:admin
+2019-05-05 15:47:13,248 - myunit.py[line:17] - INFO - ======tearDown======
+2019-05-05 15:48:22,691 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-05 15:48:25,149 - test_login.py[line:23] - INFO - ======测试密码错误登录======
+2019-05-05 15:48:25,149 - loginView.py[line:21] - INFO - ======登录开始======
+2019-05-05 15:48:25,150 - loginView.py[line:22] - INFO - username is:admin
+2019-05-05 15:48:25,330 - myunit.py[line:17] - INFO - ======tearDown======
+2019-05-05 15:48:35,336 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-05 15:48:37,879 - test_login.py[line:18] - INFO - ======测试正确登录======
+2019-05-05 15:48:37,879 - loginView.py[line:21] - INFO - ======登录开始======
+2019-05-05 15:48:37,880 - loginView.py[line:22] - INFO - username is:admin
+2019-05-05 15:48:37,929 - myunit.py[line:17] - INFO - ======tearDown======
+2019-05-05 15:51:00,529 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-05 15:51:03,052 - test_login.py[line:22] - INFO - ======测试密码错误登录======
+2019-05-05 15:51:03,053 - loginView.py[line:21] - INFO - ======登录开始======
+2019-05-05 15:51:03,054 - loginView.py[line:22] - INFO - username is:admin
+2019-05-05 15:51:03,105 - myunit.py[line:17] - INFO - ======tearDown======
+2019-05-05 15:51:13,109 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-05 15:51:15,738 - test_login.py[line:17] - INFO - ======测试正确登录======
+2019-05-05 15:51:15,739 - loginView.py[line:21] - INFO - ======登录开始======
+2019-05-05 15:51:15,739 - loginView.py[line:22] - INFO - username is:admin
+2019-05-05 15:51:15,780 - myunit.py[line:17] - INFO - ======tearDown======
+2019-05-05 16:45:33,910 - loginView.py[line:23] - INFO - ======登录开始======
+2019-05-05 16:45:33,913 - loginView.py[line:24] - INFO - username is:admin
+2019-05-05 16:45:34,061 - loginView.py[line:27] - INFO - password is:123456
+2019-05-05 16:45:34,131 - loginView.py[line:30] - INFO - ======点击登录按钮======
+2019-05-05 16:45:36,229 - loginView.py[line:32] - INFO - ======登录完成======
+2019-05-05 17:08:19,935 - loginView.py[line:23] - INFO - ======登录开始======
+2019-05-05 17:08:19,936 - loginView.py[line:24] - INFO - username is:admin
+2019-05-05 17:08:20,082 - loginView.py[line:27] - INFO - password is:123456
+2019-05-05 17:08:20,158 - loginView.py[line:30] - INFO - ======点击登录按钮======
+2019-05-05 17:08:21,888 - loginView.py[line:32] - INFO - ======登录完成======
+2019-05-05 17:09:16,114 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-05 17:09:19,091 - test_login.py[line:24] - INFO - ======测试密码错误登录======
+2019-05-05 17:09:19,092 - myunit.py[line:17] - INFO - ======tearDown======
+2019-05-05 17:09:29,103 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-05 17:09:31,619 - test_login.py[line:19] - INFO - ======测试正确登录======
+2019-05-05 17:09:31,620 - myunit.py[line:17] - INFO - ======tearDown======
+2019-05-05 17:11:30,341 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-05 17:11:33,076 - myunit.py[line:17] - INFO - ======tearDown======
+2019-05-05 17:11:43,095 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-05 17:11:46,316 - myunit.py[line:17] - INFO - ======tearDown======
+2019-05-05 17:14:24,082 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-05 17:14:26,956 - myunit.py[line:17] - INFO - ======tearDown======
+2019-05-05 17:14:36,974 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-05 17:14:39,949 - myunit.py[line:17] - INFO - ======tearDown======
+2019-05-05 17:15:56,484 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-05 17:16:00,814 - myunit.py[line:19] - INFO - ======tearDown======
+2019-05-05 17:16:10,818 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-05 17:16:17,030 - myunit.py[line:19] - INFO - ======tearDown======
+2019-05-05 17:19:10,093 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-05 17:19:14,515 - myunit.py[line:18] - INFO - ======tearDown======
+2019-05-05 17:19:24,518 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-05 17:19:28,566 - myunit.py[line:18] - INFO - ======tearDown======
+2019-05-05 17:20:40,826 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-05 17:20:44,873 - test_login.py[line:22] - INFO - ======测试密码错误登录======
+2019-05-05 17:20:44,875 - loginView.py[line:21] - INFO - ======登录开始======
+2019-05-05 17:20:44,877 - loginView.py[line:22] - INFO - username is:admin
+2019-05-05 17:20:45,021 - loginView.py[line:25] - INFO - password is:111111
+2019-05-05 17:20:45,096 - loginView.py[line:28] - INFO - ======点击登录按钮======
+2019-05-05 17:20:45,354 - loginView.py[line:30] - INFO - ======登录完成======
+2019-05-05 17:20:45,356 - myunit.py[line:18] - INFO - ======tearDown======
+2019-05-05 17:20:55,359 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-05 17:20:59,844 - test_login.py[line:17] - INFO - ======测试正确登录======
+2019-05-05 17:20:59,845 - loginView.py[line:21] - INFO - ======登录开始======
+2019-05-05 17:20:59,846 - loginView.py[line:22] - INFO - username is:admin
+2019-05-05 17:21:00,001 - loginView.py[line:25] - INFO - password is:123456
+2019-05-05 17:21:00,083 - loginView.py[line:28] - INFO - ======点击登录按钮======
+2019-05-05 17:21:01,830 - loginView.py[line:30] - INFO - ======登录完成======
+2019-05-05 17:21:01,833 - myunit.py[line:18] - INFO - ======tearDown======
+2019-05-05 17:22:14,047 - loginView.py[line:21] - INFO - ======登录开始======
+2019-05-05 17:22:14,048 - loginView.py[line:22] - INFO - username is:admin
+2019-05-05 17:22:14,206 - loginView.py[line:25] - INFO - password is:123456
+2019-05-05 17:22:14,283 - loginView.py[line:28] - INFO - ======点击登录按钮======
+2019-05-05 17:22:16,199 - loginView.py[line:30] - INFO - ======登录完成======
+2019-05-06 15:36:19,806 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-06 15:36:27,175 - test_login.py[line:22] - INFO - ======测试密码错误登录======
+2019-05-06 15:36:27,177 - loginView.py[line:21] - INFO - ======登录开始======
+2019-05-06 15:36:27,179 - loginView.py[line:22] - INFO - username is:admin
+2019-05-06 15:36:27,579 - loginView.py[line:25] - INFO - password is:111111
+2019-05-06 15:36:27,746 - loginView.py[line:28] - INFO - ======点击登录按钮======
+2019-05-06 15:36:28,295 - loginView.py[line:30] - INFO - ======登录完成======
+2019-05-06 15:36:28,302 - myunit.py[line:17] - INFO - ======tearDown======
+2019-05-06 15:36:38,309 - myunit.py[line:13] - INFO - ======setUp======
+2019-05-06 15:36:44,677 - test_login.py[line:17] - INFO - ======测试正确登录======
+2019-05-06 15:36:44,679 - loginView.py[line:21] - INFO - ======登录开始======
+2019-05-06 15:36:44,682 - loginView.py[line:22] - INFO - username is:admin
+2019-05-06 15:36:44,868 - loginView.py[line:25] - INFO - password is:123456
+2019-05-06 15:36:44,946 - loginView.py[line:28] - INFO - ======点击登录按钮======
+2019-05-06 15:36:46,576 - loginView.py[line:30] - INFO - ======登录完成======
+2019-05-06 15:36:46,579 - myunit.py[line:17] - INFO - ======tearDown======
