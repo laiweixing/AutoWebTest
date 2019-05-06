@@ -111,3 +111,18 @@
 2019-05-06 15:36:44,946 - loginView.py[line:28] - INFO - ======点击登录按钮======
 2019-05-06 15:36:46,576 - loginView.py[line:30] - INFO - ======登录完成======
 2019-05-06 15:36:46,579 - myunit.py[line:17] - INFO - ======tearDown======
+2019-05-06 18:29:11,025 - loginView.py[line:21] - INFO - ======登录开始======
+2019-05-06 18:29:11,027 - loginView.py[line:22] - INFO - username is:admin
+2019-05-06 18:29:11,184 - loginView.py[line:25] - INFO - password is:123456
+2019-05-06 18:29:11,260 - loginView.py[line:28] - INFO - ======点击登录按钮======
+2019-05-06 18:29:13,143 - loginView.py[line:30] - INFO - ======登录完成======
+2019-05-06 18:32:24,672 - loginView.py[line:21] - INFO - ======登录开始======
+2019-05-06 18:32:24,673 - loginView.py[line:22] - INFO - username is:admin
+2019-05-06 18:32:24,820 - loginView.py[line:25] - INFO - password is:123456
+2019-05-06 18:32:24,917 - loginView.py[line:28] - INFO - ======点击登录按钮======
+2019-05-06 18:32:26,804 - loginView.py[line:30] - INFO - ======登录完成======
+2019-05-06 18:33:11,247 - loginView.py[line:21] - INFO - ======登录开始======
+2019-05-06 18:33:11,248 - loginView.py[line:22] - INFO - username is:admin
+2019-05-06 18:33:11,411 - loginView.py[line:25] - INFO - password is:123456
+2019-05-06 18:33:11,487 - loginView.py[line:28] - INFO - ======点击登录按钮======
+2019-05-06 18:33:13,564 - loginView.py[line:30] - INFO - ======登录完成======
